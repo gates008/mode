@@ -7,6 +7,7 @@ import com.design.strategy.quack.QuackBehavior;
 * @author 作者
 * @version 创建时间：2019年3月25日 下午5:44:07
 * 类说明
+ * strategy 策略模式
 */
 public abstract class Duck {
 	public FlyBehavior flyBehavior;
